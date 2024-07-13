@@ -1,0 +1,3 @@
+[submodule "shortcuts-backend"]
+	path = shortcuts-backend
+	url = https://github.com/gostachan/shortcuts-backend.git
