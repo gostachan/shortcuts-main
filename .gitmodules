@@ -1,3 +1,9 @@
 [submodule "shortcuts-backend"]
 	path = shortcuts-backend
 	url = https://github.com/gostachan/shortcuts-backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/gostachan/shortcuts-frontend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/gostachan/shortcuts-frontend.git
