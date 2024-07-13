@@ -3,7 +3,7 @@
 	url = https://github.com/gostachan/shortcuts-backend.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/gostachan/shortcuts-frontend.git
+	url = https://github.com/gostachan/shortcuts-backend.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/gostachan/shortcuts-frontend.git
