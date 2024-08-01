@@ -11,6 +11,9 @@ CheatSheetやKeyCueとは違って，
 異なるプラットフォームでのショートカットの競合も検知することができます．  
 例えば，システムに cmd + c (copy)が登録されているのに，ブラウザで同じキーに新しくショートカットを割り当てようとすると警告を発します．
 
+## 動作 UI
+[動作,UIはここから見れます](https://www.notion.so/fb73d265821a4c83852971d15e35187c?pvs=4)
+
 ## プロダクト詳細
 ### メイン機能 ショートカット登録
 1. ログインする
@@ -90,23 +93,3 @@ tmuxなどの場合，初期状態で全てのキーにショートカットが�
 ### 改善項目
 * デフォルトショートカットが初めから登録されている機能を追加するならEnvironmentテーブルが必要
 
-# UI
-#### ホーム画面
-![home](ui_img/home.jpg)
-#### ログイン画面
-![login](ui_img/login.jpg)
-#### サインアップ画面
-![signup](ui_img/signup.jpg)
-
-
-#### お気に入り登録
-<img src="ui_img/favorite.gif" width="100%">
-
-#### 表示環境切り替えボタン
-<img src="ui_img/environment.gif" width="100%">
-
-#### モーダルのトグル
-<img src="ui_img/modal.gif" width="100%">
-
-# 参考ページ
-[リアルタイムでキーボードの動作を反映させる機能を利用しているアプリ](https://www.onlinemictest.com/ja/keyboard-test/)
